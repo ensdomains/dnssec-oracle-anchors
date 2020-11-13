@@ -2,7 +2,7 @@
 
 DNS proof of root domain used for DNSSEC Oracle and other utilities
 
-## Install
+## Install
 
 ```
 yarn add @ensdomains/dnssec-oracle-anchors
